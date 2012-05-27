@@ -1,0 +1,1 @@
+(function(){this.Hello=function(){function a(){}return a.prototype.hello=function(){return"Hello World!"},a}()}).call(this);

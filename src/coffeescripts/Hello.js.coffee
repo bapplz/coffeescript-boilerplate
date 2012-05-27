@@ -1,4 +1,4 @@
 class @Hello
 
   hello: ->
-    return "Hello world!"
+    return "Hello World!"
